@@ -21,6 +21,9 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>15</java.version>
 		<maven-jar-plugin-version>2.4.5</maven-jar-plugin-version>
+		<maven.compiler.release>15</maven.compiler.release>
+		<maven.compiler.source>15</maven.compiler.source>
+  		<maven.compiler.target>15</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
