@@ -9,12 +9,13 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aiti.java.project</groupId>
-	<artifactId>aiti.java.project</artifactId>
+	<artifactId>Backend_API</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>aiti.java.project</name>
-	<description>end of course project work</description>
+	<packaging>war</packaging>
+	<name>Backend_API</name>
+	<description>Trial for Automated Student Results Processing System Backend</description>
 	<properties>
-		 <start-class>package com.aiti.java.project.Application</start-class>
+		 <start-class>com.aiti.java.project.Application</start-class>
 		<project.bulid.sourceEncoding>UTF-8</project.bulid.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>15</java.version>
